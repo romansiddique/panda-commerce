@@ -1,9 +1,7 @@
 .container{
     margin-bottom: 100px;
 }
-.nav-img{
-    width: 10px;
-}
+
 .orange-bg{
     background-color: #fceae8;
 }
@@ -23,3 +21,36 @@
     color: white;
     font-weight: 700;
 }
+.bag , .shoes , .watch{
+    padding: 10px 20px ;
+    border-radius: 20px;
+}
+.bag{
+    background-image: linear-gradient(to right , orange , rgb(230, 164, 164));
+}
+.shoes{
+    background-image: linear-gradient(to left ,  blue , rgb(171, 151, 244));
+    
+
+}
+.watch{
+    background-image: linear-gradient(to right , #ff136f, rgb(240, 151, 166));
+}
+.categories h1{
+    color: white;
+    font-weight: 700;
+}
+.card-group .card{
+    margin: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+.card-title{
+    font-weight: 700;
+}
+
+#contact{
+    height: 300px;
+}
+
