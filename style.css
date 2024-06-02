@@ -1,56 +1,63 @@
-.container{
+.container {
     margin-bottom: 100px;
 }
 
-.orange-bg{
+.orange-bg {
     background-color: #fceae8;
 }
-.carousel-item{
+
+.carousel-item {
     padding: 10px 20px;
 }
-.price{
+
+.price {
     color: #ff136f;
 }
-.buy-now{
+
+.buy-now {
     margin-top: 15px;
     cursor: pointer;
-    padding: 10px 30px ;
+    padding: 10px 30px;
     border: none;
-    background-image: linear-gradient(to bottom, #ff5893 0%,#ff136f 100%);
+    background-image: linear-gradient(to bottom, #ff5893 0%, #ff136f 100%);
     border-radius: 10px;
     color: white;
     font-weight: 700;
 }
-.bag , .shoes , .watch{
-    padding: 10px 20px ;
+
+.bag, .shoes, .watch {
+    padding: 10px 20px;
     border-radius: 20px;
 }
-.bag{
-    background-image: linear-gradient(to right , orange , rgb(230, 164, 164));
-}
-.shoes{
-    background-image: linear-gradient(to left ,  blue , rgb(171, 151, 244));
-    
 
+.bag {
+    background-image: linear-gradient(to right, orange, rgb(230, 164, 164));
 }
-.watch{
-    background-image: linear-gradient(to right , #ff136f, rgb(240, 151, 166));
+
+.shoes {
+    background-image: linear-gradient(to left, blue, rgb(171, 151, 244));
 }
-.categories h1{
+
+.watch {
+    background-image: linear-gradient(to right, #ff136f, rgb(240, 151, 166));
+}
+
+.categories h1 {
     color: white;
     font-weight: 700;
 }
-.card-group .card{
+
+.card-group .card {
     margin: 20px;
     border: none;
     box-shadow: 5px 5px 10px gray;
     border-radius: 10px;
 }
-.card-title{
+
+.card-title {
     font-weight: 700;
 }
 
-#contact{
+#contact {
     height: 300px;
 }
-
