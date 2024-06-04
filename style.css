@@ -3,9 +3,9 @@
 }
 
 .orange-bg {
-    background-color: hsl(273, 19%, 86%);
+    background-color: hsl(89, 58%, 93%);
     color: black;
-    box-shadow: 0.5px 0.5px 20px hsl(0, 0%, 73%);
+    border-radius: 10px;
 }
 
 .carousel-item {
@@ -62,4 +62,9 @@
 
 #contact {
     height: 300px;
+}
+.footer-bg{
+    background-color: hsl(162, 58%, 75%);
+    color: black;
+    border-radius: 19px;
 }
