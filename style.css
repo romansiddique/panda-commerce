@@ -3,7 +3,9 @@
 }
 
 .orange-bg {
-    background-color: #fceae8;
+    background-color: hsl(273, 19%, 86%);
+    color: black;
+    box-shadow: 0.5px 0.5px 20px hsl(0, 0%, 73%);
 }
 
 .carousel-item {
